@@ -99,7 +99,7 @@
 (global-set-key (quote [C-f11]) 'keil)
 
 ;;klavesova zkratka pro lilypond, spustí makro carkatecka
-(global-set-key (quote [f3]) 'carkatecka)
+(global-set-key (quote [C-f3]) 'carkatecka)
 
 ;;klavesova zkratka pro lilypond, spustí makro legato-region
 (define-key LilyPond-mode-map "\C-cl" 'legato-region)
